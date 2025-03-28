@@ -1,0 +1,141 @@
+ManifestFileVersion: 0
+CRC: 1667601073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6da68f7ad2833e0ad1556d7a11ef12c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7b401850b17220148fb427d4b80286a3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b1d3f7c709d5264cbc848bdfe502c0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfc717cdedb8b154d99fbad48cb9244c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42c57e8e1e9a3314fbdd84069cb0ede5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66f930f825248ed49a303abb8e57c2ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 291f88db3810f1645874f479ddcf48fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d809fe33bd379df449249261c7975220, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6521bb2479c66af40920a4abce5ed733, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad006161753641242ac89b9aafb36395, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c048bc6defb992843b94c43e6bd7e845, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7ed66c755ad1b5428c7f139985b4985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9eeae46dfa7cb784e8f4caf828b6f773, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82c431948f385744d8f08a313095f485, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87fc28bfc726a5444904bfc865c58889, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb046f07abf847c429b86a4eada6e856, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5eee7e6ad2e4364c8fedac5ab8ba390, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bc18c0e2d0a20d418611854562c7fce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb78295c6cad77144b41cd64a2024188, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da64b6743c0cef94eadd0c9027166d5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75cda342a25f1e9499e4853f7b3fbe72, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcd30b51f8e59cb449307286f0892850, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b4ba8cbcc495d34491dfeac9e414257, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1da353243062479a9b31c85074a796b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36b65367f055bef42a73637b141c99f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b95203a76f78aef49bf9f06d6b4fbe71, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7c3a9bee5d8cb24dac757e3c7d343b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6488bdd0f845bee162cbe1ad30959df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82649ebc8cdbb4a2ade675de49078f51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 698db0899920e774e0042dbb0795be59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 898b21da3f5cf6801dbf99658418aad0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StormOfAnger_Assets/LevelScenes/Level2U.unity
+Dependencies: []
